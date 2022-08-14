@@ -15,4 +15,6 @@ createAsyncScript([{
 // timeout 为 script 超时的时间单位为 ms，超时会自动取消
 // delay 为延迟加载的时间单位为 ms
 // ...rest 剩余参数为 src 属性的会被加到script属性上
+// onLoad 事件
+// onError 事件
 ```
